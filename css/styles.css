@@ -3,6 +3,7 @@ body {
     height: 100%;
     background-image: linear-gradient(45deg, rgb(23, 97, 146), #546);
    text-align: center;
+   color: rgb(227, 242, 255);
 }
 
 p   {
@@ -11,4 +12,8 @@ p   {
 }
 span {
     background-color: rgb(157, 105, 205);
+}
+img {
+    width: 25vh;
+
 }
